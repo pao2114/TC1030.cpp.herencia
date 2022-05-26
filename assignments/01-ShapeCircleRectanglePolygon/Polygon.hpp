@@ -8,6 +8,7 @@ private:
     int lados;
 public:
     Polygon();
-    Polygon(int, int, int);
+    Polygon(int,int,int);
+
     int getNumeroDeLados();
 };
